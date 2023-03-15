@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>{Igor França}!</strong>
 
-> Estou buscando migração para carreira tecnologica, e para isso estou estudante para Dev Full Stack.
+> Estou buscando migração para carreira tecnologica, e para isso estou estudando para Dev Full Stack.
 
 🔭 Estou trabalhando em alguns projetos do curso atual, e em busca de maais aprendizados.
 
