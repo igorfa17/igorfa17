@@ -1,6 +1,6 @@
-## 💜 Olá, meu nome é <strong>{Igor França}!</strong>
+## Olá, meu nome é <strong>{Igor França}!</strong>
 
-> Estou buscando migração para carreira tecnologica, e para isso estou estudando para Dev Full Stack.
+> Estou buscando migração para carreira tecnologica, e para isso estou estudando Desenvolvimento Full Stack.
 
 🔭 Estou trabalhando em alguns projetos do curso atual, e em busca de mais aprendizados.
 
@@ -19,4 +19,4 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
-  ![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/igorfa17/igorfa17/blob/output/github-contribution-grid-snake.svg)
