@@ -1,39 +1,14 @@
-## Olá, meu nome é <strong>{Igor França}!</strong>
+## Sobre Mim
 
-> Estou buscando migração para carreira tecnologica, e para isso estou estudando Desenvolvimento Full Stack.
+Olá! Meu nome é Igor e atualmente estou estudando HTML, CSS, JavaScript, Node e Git. Estou buscando uma transição de carreira para a área de desenvolvimento web e estou animado para aprender mais sobre tecnologia e programação.
 
-🔭 Estou trabalhando em alguns projetos do curso atual, e em busca de mais aprendizados.
+## Habilidades
+* HTML 👍
+* CSS 💅
+* JavaScript 🚀
+* Node 🌳
+* Git 🐙
 
-----
-
-## 🚀 Minhas Skills
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  
----
-
-## DevOps
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
-  <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
-    "
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+## Contato
+LinkedIn: [Igor França](https://www.linkedin.com/in/igor-franca-dos-santos/)
+E-mail: [Entre em contato](igorfa17@gmail.com)
